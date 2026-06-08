@@ -4,7 +4,7 @@ One-page computer science portfolio for Yousef Ali Hassan.
 
 ## Site
 
-- Website: `yousefalihassan.netlify.com`
+- Website: `yousefalihassan.com`
 - Netlify live URL: `yousefalihassan.netlify.app`
 - GitHub profile: `github.com/YousefHassan123`
 
