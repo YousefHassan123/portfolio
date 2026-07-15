@@ -7,6 +7,7 @@ One-page software engineering portfolio for Yousef A. Hassan.
 - Website: `yousefalihassan.com`
 - Netlify live URL: `yousefalihassan.netlify.app`
 - GitHub profile: `github.com/YousefHassan123`
+- Resume: `Yousef_A_Hassan.pdf`
 
 ## Deploy
 
