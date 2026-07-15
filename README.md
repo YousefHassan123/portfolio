@@ -1,6 +1,6 @@
-# Yousef Ali Hassan Portfolio
+# Yousef A. Hassan Portfolio
 
-One-page computer science portfolio for Yousef Ali Hassan.
+One-page software engineering portfolio for Yousef A. Hassan.
 
 ## Site
 

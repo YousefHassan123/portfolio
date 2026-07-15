@@ -1,5 +1,2 @@
-.DS_Store
-Thumbs.db
-node_modules/
-dist/
-.netlify/
+.portfolio.log
+.portfolio-error.log

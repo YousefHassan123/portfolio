@@ -374,6 +374,16 @@ h3 {
   margin: 0.85rem 0 1.4rem;
 }
 
+.project-shot {
+  width: 100%;
+  aspect-ratio: 16 / 7;
+  object-fit: cover;
+  object-position: top;
+  border: 1px solid #b8ccec;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+
 .card-links {
   margin-top: auto;
 }
